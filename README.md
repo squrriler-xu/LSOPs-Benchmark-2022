@@ -22,5 +22,5 @@ func_num: the index of the test function.
 ## Contact:
 Questions and bug reports should be sent to:
 
-Peilan Xu: xpl@mail.ustc.edu.cn
+Peilan Xu: xpl@nuist.edu.cn
 
